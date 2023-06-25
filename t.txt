@@ -7,6 +7,7 @@ Baseball,https://a17.azplay.me/hls/streama212118/index.m3u8?cst=511a4f804a81a399
 https://a12.azplay.me/hls/streama212141/index.m3u8?cst=70c135436ed3ee6f591117c337781b4b
 volleyball,https://a17.azplay.me/hls/streama204753/index.m3u8?cst=c277a94f78c0fbec14cbaf7c6c41dab7
 Tennis,https://cnl.cdnhks.lol/cnl/tc_plus_5/playlist.m3u8
+Golf,https://ddh1.cdnhks.lol/ddh1/premium70/playlist.m3u8
 
 
 
