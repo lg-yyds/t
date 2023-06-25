@@ -10,7 +10,6 @@ Football,https://qm3.livemodo.click/zjoITEZ7OWlAxhnKFO-yZA/1687746209/3139362e31
 新闻频道,#genre#
 Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNN Live,https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/cb711ea1-5493-4068-a39a-fc5b6cd81291/0.m3u8
-BBC News (UK),http://1292072398.rsc.cdn77.org/FyBqCXcUMaAok_0pMeVwmg==,1687728387/1292072398/tracks-v1a1/mono.m3u8
 Russia Today (Russian Federation),https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 CNBC Live (USA),https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
