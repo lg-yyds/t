@@ -1,4 +1,4 @@
-测试，#genre#
-cctv1，https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
+测试,#genre#
+cctv1,https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 央视频道,#genre#
 CCTV-1 综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
