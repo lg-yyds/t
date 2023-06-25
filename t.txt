@@ -1,1 +1,2 @@
-1
+测试，#genre#
+cctv1，https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
