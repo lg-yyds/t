@@ -1,2 +1,3 @@
 体育频道,#genre#
+Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 CBC Sports (Canada),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
