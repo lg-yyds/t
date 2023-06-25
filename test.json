@@ -513,7 +513,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-      "ext": "https://www.nivod4.tv/"
     },
     {
       "key": "csp_trj",
@@ -583,19 +582,8 @@
       "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
     },
     {
-      "key": "push_agent",
-      "name": "▶┃推送┃磁力",
-      "type": 3,
-      "api": "csp_Push",
-      "playerType": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
-    },
-    {
       "key": "ext_live_protocol",
-      "name": "关注公众号“肥猫不肥”",
+      "name": "”",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
