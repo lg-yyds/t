@@ -23,6 +23,15 @@
       "jar": "http://xhww.fun:63/小米/小暴脾气5.jar;md5;d10047ad127888e9588e38bdc0817cdd"
     },
     {
+      "key": "csp_Nbys",
+      "name": "🛫泥巴┃海外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "爱迪",
       "name": "💡┃爱迪┃影视",
       "type": 3,
