@@ -1,3 +1,9 @@
 体育频道,#genre#
 Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 CBC Sports (Canada),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
+新闻频道,#genre#
+Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CNN Live News (USA),https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+BBC News (UK),http://1292072398.rsc.cdn77.org/bJtKWltOKZuVoKuNzmWqNQ==,1687721170/1292072398/tracks-v1a1/mono.m3u8
+Russia Today (Russian Federation),https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
