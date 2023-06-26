@@ -1,5 +1,4 @@
 体育频道,#genre#
-kljkl2,,https://mhdtvsports.co.in/sp1/master.php?id=skysgol
 Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 Bein Sports (USA),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
@@ -19,6 +18,7 @@ SPORTS GRID,https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 五星体育,https://cntv.sbs/live?auth=230612&id=wxty
 劲爆体育,https://cntv.sbs/live?auth=230612&id=jbty
+体育,https://mhdtvsports.co.in/sp1/master.php?id=skysgol
 新闻频道,#genre#
 Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNN Live,https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/cb711ea1-5493-4068-a39a-fc5b6cd81291/0.m3u8
