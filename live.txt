@@ -13,7 +13,6 @@ Adventure Sports,https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.
 Beach TV Gulf,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w1859901854.m3u8
 RIGHT NOW,https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/540/rightnowtvSCTE35.m3u8
 SPORTS GRID,https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
-STADIUM TV,https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_1/633005972e624780a38d3639c184cbf6/chunklist_ssaiV.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 五星体育,https://cntv.sbs/live?auth=230612&id=wxty
@@ -21,7 +20,6 @@ STADIUM TV,https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-e
 新闻频道,#genre#
 Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNN Live,https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/cb711ea1-5493-4068-a39a-fc5b6cd81291/0.m3u8
-Russia Today (Russian Federation),https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 CNBC Live (USA),https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
 CBS (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
