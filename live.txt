@@ -27,7 +27,6 @@ CNBC Live (USA),https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-
 CBS (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-CCTV1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mud.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 法·24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
