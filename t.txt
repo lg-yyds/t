@@ -6,6 +6,11 @@ Sky Sports (United Kingdom),https://dai.google.com/linear/hls/pa/event/YoBM0ae5Q
 British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Marca TV (Spain),https://streamer70.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=ET&h=QF32r2opuhy_kfa-hUIdIQ&e=31363837383338303631&r=5665
 Fight TV (USA),https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+HBO Boxing (USA),http://iptv.prosto.tv:7000/ch118/tracks-v1a1/mono.m3u8?ip=196.188.13.111&id=0&live=1&e=1690344102&st=C-wdLeqifk7G9sdw9AoFdA
+30A TV GOLF,https://30a-tv.com/feeds/720p/53.m3u8
+Seven Television TV (France),http://hls.tmacaraibes.com/live/index.m3u8
+BEK Sports,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
+Adventure Sports,https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/688fa7e7-8093-46a3-9742-0799f9344444/1.m3u8
 新闻频道,#genre#
 Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 CNN Live,https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/cb711ea1-5493-4068-a39a-fc5b6cd81291/0.m3u8
