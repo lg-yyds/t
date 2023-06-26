@@ -11,6 +11,9 @@ Seven Television TV (France),http://hls.tmacaraibes.com/live/index.m3u8
 BEK Sports,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
 Adventure Sports,https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/688fa7e7-8093-46a3-9742-0799f9344444/1.m3u8
 Beach TV Gulf,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w1859901854.m3u8
+RIGHT NOW,https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/540/rightnowtvSCTE35.m3u8
+SPORTS GRID,https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
+STADIUM TV,https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/profile_1/633005972e624780a38d3639c184cbf6/chunklist_ssaiV.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 五星体育,https://cntv.sbs/live?auth=230612&id=wxty
@@ -22,6 +25,7 @@ Russia Today (Russian Federation),https://rt-glb.rttv.com/dvr/rtnews/playlist_45
 MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 CNBC Live (USA),https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
 CBS (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
