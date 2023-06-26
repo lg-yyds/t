@@ -7,6 +7,7 @@ British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:du
 Marca TV (Spain),https://streamer70.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=ET&h=QF32r2opuhy_kfa-hUIdIQ&e=31363837383338303631&r=5665
 Fight TV (USA),https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
 30A TV GOLF,https://30a-tv.com/feeds/720p/53.m3u8
+30A TV FISHING,https://30a-tv.com/feeds/720p/40.m3u8
 Seven Television TV (France),http://hls.tmacaraibes.com/live/index.m3u8
 BEK Sports,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
 Adventure Sports,https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/688fa7e7-8093-46a3-9742-0799f9344444/1.m3u8
