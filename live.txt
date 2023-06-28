@@ -1,4 +1,5 @@
 体育频道,#genre#
+GOLF-1,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
 Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 Bein Sports (USA),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
