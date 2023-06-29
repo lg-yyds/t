@@ -3,38 +3,3 @@ ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 GOLF,http://2hubs.ddns.net:25461/BabNour/telegrramm/60009
 GOLF CHANNEL,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
-Sky Sports F1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
-Sky Sports Football,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
-体育频道,#genre#
-Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-Bein Sports (USA),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
-Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
-Sky Sports (United Kingdom),https://dai.google.com/linear/hls/pa/event/YoBM0ae5Q62TPdrfFHS4RQ/stream/ca4cf4a2-1e16-4ceb-8951-8bfa1dccdd4d:BRU/variant/2bec17ce4b43ba5adacd2588b48725d4/bandwidth/3072000.m3u8
-British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-Marca TV (Spain),https://streamer70.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=ET&h=QF32r2opuhy_kfa-hUIdIQ&e=31363837383338303631&r=5665
-Fight TV (USA),https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
-30A TV GOLF,https://30a-tv.com/feeds/720p/53.m3u8
-30A TV FISHING,https://30a-tv.com/feeds/720p/40.m3u8
-Seven Television TV (France),http://hls.tmacaraibes.com/live/index.m3u8
-BEK Sports,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
-Adventure Sports,https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/688fa7e7-8093-46a3-9742-0799f9344444/1.m3u8
-Beach TV Gulf,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w1859901854.m3u8
-RIGHT NOW,https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/540/rightnowtvSCTE35.m3u8
-SPORTS GRID,https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-五星体育,https://cntv.sbs/live?auth=230612&id=wxty
-劲爆体育,https://cntv.sbs/live?auth=230612&id=jbty
-新闻频道,#genre#
-Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-CNN Live,https://d30x5vsa85tvmd.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/cb711ea1-5493-4068-a39a-fc5b6cd81291/0.m3u8
-MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-CNBC Live (USA),https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
-CBS (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-法·24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
