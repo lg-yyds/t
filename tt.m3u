@@ -5,3 +5,41 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="新增频道",GOLF
 http://2hubs.ddns.net:25461/BabNour/telegrramm/60009
+#EXTINF:-1 group-title="体育频道",Al Dawri & Al-Kass Satellite Sports (Qatar)
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="体育频道",Bein Sports (USA)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
+#EXTINF:-1 group-title="体育频道",Sport 1 (Germany)
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="体育频道",Sky Sports (United Kingdom)
+https://dai.google.com/linear/hls/pa/event/YoBM0ae5Q62TPdrfFHS4RQ/stream/ca4cf4a2-1e16-4ceb-8951-8bfa1dccdd4d:BRU/variant/2bec17ce4b43ba5adacd2588b48725d4/bandwidth/3072000.m3u8
+#EXTINF:-1 group-title="体育频道",British Eurosport (UK)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="体育频道",Marca TV (Spain)
+https://streamer70.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=ET&h=QF32r2opuhy_kfa-hUIdIQ&e=31363837383338303631&r=5665
+#EXTINF:-1 group-title="体育频道",Fight TV (USA)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+#EXTINF:-1 group-title="体育频道",30A TV GOLF
+https://30a-tv.com/feeds/720p/53.m3u8
+#EXTINF:-1 group-title="体育频道",30A TV FISHING
+https://30a-tv.com/feeds/720p/40.m3u8
+#EXTINF:-1 group-title="体育频道",Seven Television TV (France)
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="体育频道",BEK Sports
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
+#EXTINF:-1 group-title="体育频道",Adventure Sports
+https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/688fa7e7-8093-46a3-9742-0799f9344444/1.m3u8
+#EXTINF:-1 group-title="体育频道",Beach TV Gulf
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w1859901854.m3u8
+#EXTINF:-1 group-title="体育频道",RIGHT NOW
+https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/540/rightnowtvSCTE35.m3u8
+#EXTINF:-1 group-title="体育频道",SPORTS GRID
+https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="体育频道",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="体育频道",美·红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="体育频道",五星体育
+https://cntv.sbs/live?auth=230612&id=wxty
+#EXTINF:-1 group-title="体育频道",劲爆体育
+https://cntv.sbs/live?auth=230612&id=jbty
