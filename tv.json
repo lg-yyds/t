@@ -1,117 +1,117 @@
 {
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🐼┃豆瓣┃影视",
-      "type": 3,
-      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+      "key": "js豆瓣"，
+      "name": "🐼┃豆瓣┃影视"，
+      "type": 3，
+      "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js"，
       "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
-    },
+    }，
     {
-      "key": "直播转点播",
-      "name": "🐼️┃直播┃MV",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/lg-yyds/t/main/直播转点播2.js",
+      "key": "直播转点播"，
+      "name": "🐼️┃直播┃MV"，
+      "type": 3，
+      "api": "https://raw.githubusercontent.com/lg-yyds/t/main/直播转点播2.js"，
       "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/zbc.json"
-    },
+    }，
     {
-      "key": "csp_trj",
-      "name": "✈┃唐人┃影视",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_trj"，
+      "name": "✈┃唐人┃影视"，
+      "type": 3，
+      "api": "csp_Tangrenjie"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
-      "key": "爱迪",
-      "name": "💡┃爱迪┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": "2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/",
+      "key": "爱迪"，
+      "name": "💡┃爱迪┃影视"，
+      "type": 3，
+      "api": "csp_AppYsV2"，
+      "playerType": "2"，
+      "ext": "https://api123.adys.app/xgapp.php/v3/"，
       "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"
-    },
+    }，
     {
-      "key": "狐狸",
-      "name": "🦊┃狐狸┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": "2",
-      "ext": "https://www.kuin.one/api.php/app/",
+      "key": "狐狸"，
+      "name": "🦊┃狐狸┃影视"，
+      "type": 3，
+      "api": "csp_AppYsV2"，
+      "playerType": "2"，
+      "ext": "https://www.kuin.one/api.php/app/"，
       "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"
-    },
+    }，
     {
-      "key": "鸭鸭",
-      "name": "🦆┃鸭鸭┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
+      "key": "鸭鸭"，
+      "name": "🦆┃鸭鸭┃影视"，
+      "type": 3，
+      "api": "csp_AppYsV2"，
+      "searchable": 1，
+      "quickSearch": 1，
+      "filterable": 1，
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"，
       "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"
-    },
+    }，
     {
-      "key": "酷云",
-      "name": "😎┃酷云┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://ys.realdou.cn/api.php/app/",
-      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F",
+      "key": "酷云"，
+      "name": "😎┃酷云┃影视"，
+      "type": 3，
+      "api": "csp_AppYsV2"，
+      "ext": "https://ys.realdou.cn/api.php/app/"，
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ230614c.jar;md5; FE290599BF2EF6D202B92B9B733F776F"，
       "categories": [
-        "4K电影",
+        "4K电影"，
         "4K电视剧"
       ]
-    },
+    }，
     {
-      "key": "YQK_spider",
-      "name": "🙆┃一起┃电视",
-      "api": "csp_YQKAPP",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
+      "key": "YQK_spider"，
+      "name": "🙆┃一起┃电视"，
+      "api": "csp_YQKAPP"，
+      "type": 3，
+      "filterable": 1，
+      "playerType": 2，
+      "quickSearch": 1，
+      "searchable": 1，
       "ext": "https://hk-api-cf.yqk5659.com"
-    },
+    }，
     {
-      "key": "csp_apple",
-      "name": "🍎┃苹果┃影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_apple"，
+      "name": "🍎┃苹果┃影视"，
+      "type": 3，
+      "api": "csp_LiteApple"，
+      "playerType": 1，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
-      "key": "csp_BuLei",
-      "name": "🍩┃布雷┃影视",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "key": "csp_BuLei"，
+      "name": "🍩┃布雷┃影视"，
+      "type": 3，
+      "api": "csp_BuLei"，
+      "searchable": 1，
+      "quickSearch": 1，
+      "filterable": 1，
       "ext": "http://fabu.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
-    },
+    }，
     {
-      "key": "csp_DiDuan",
-      "name": "⏮️┃低端┃影视",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "click": "ddys.tv;#vjsp > button",
-      "searchable": 1,
-      "quickSearch": 1,
+      "key": "csp_DiDuan"，
+      "name": "⏮️┃低端┃影视"，
+      "type": 3，
+      "api": "csp_Ddrk"，
+      "click": "ddys.tv;#vjsp > button"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 0
-    },
+    }，
     {
-      "key": "csp_Bttoo",
-      "name": "🔺┃Btto┃影视",
-      "api": "csp_Bttwoo",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "key": "csp_Bttoo"，
+      "name": "🔺┃Btto┃影视"，
+      "api": "csp_Bttwoo"，
+      "type": 3，
+      "filterable": 1，
+      "quickSearch": 1，
       "searchable": 1
     },
     {
@@ -523,65 +523,63 @@
           "value": "0"
         },
         {
-          "category": 1,
-          "name": "fflags",
+          "category": 1，
+          "name": "fflags"，
           "value": "fastseek"
-        },
+        }，
         {
-          "category": 2,
-          "name": "skip_loop_filter",
+          "category": 2，
+          "name": "skip_loop_filter"，
           "value": "48"
-        },
+        }，
         {
-          "category": 4,
-          "name": "reconnect",
+          "category": 4，
+          "name": "reconnect"，
           "value": "1"
-        },
+        }，
         {
-          "category": 4,
-          "name": "max-buffer-size",
+          "category": 4，
+          "name": "max-buffer-size"，
           "value": "5242880"
-        },
+        }，
         {
-          "category": 4,
-          "name": "enable-accurate-seek",
+          "category": 4，
+          "name": "enable-accurate-seek"，
           "value": "0"
-        },
+        }，
         {
-          "category": 4,
-          "name": "mediacodec",
+          "category": 4，
+          "name": "mediacodec"，
           "value": "1"
-        },
+        }，
         {
-          "category": 4,
-          "name": "mediacodec-auto-rotate",
+          "category": 4，
+          "name": "mediacodec-auto-rotate"，
           "value": "1"
-        },
+        }，
         {
-          "category": 4,
-          "name": "mediacodec-handle-resolution-change",
+          "category": 4，
+          "name": "mediacodec-handle-resolution-change"，
           "value": "1"
-        },
+        }，
         {
-          "category": 4,
-          "name": "mediacodec-hevc",
+          "category": 4，
+          "name": "mediacodec-hevc"，
           "value": "1"
-        },
+        }，
         {
-          "category": 1,
-          "name": "dns_cache_timeout",
+          "category": 1，
+          "name": "dns_cache_timeout"，
           "value": "600000000"
         }
       ]
     }
-  ],
+  ]，
   "ads": [
-    "wan.51img1.com",
-    "iqiyi.hbuioo.com",
-    "vip.ffzyad.com",
+    "wan.51img1.com"，
+    "iqiyi.hbuioo.com"，
+    "vip.ffzyad.com"，
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ],
-  "wallpaper": "",
-  "warningText": "接口完全免费，切勿付费购买。",
+  ]，
   "spider": "https://raw.githubusercontent.com/lg-yyds/t/main/panda.jar"
 }
