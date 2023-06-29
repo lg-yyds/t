@@ -1,3 +1,2 @@
 新增频道,#genre#
-GOLF,http://2hubs.ddns.net:25461/BabNour/telegrramm/60009
 GOLF CHANNEL,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
