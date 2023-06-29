@@ -2,7 +2,7 @@
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 GOLF,http://2hubs.ddns.net:25461/BabNour/telegrramm/60009
-GOLF+,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
+GOLF CHANNEL,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
 Sky Sports F1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
 Sky Sports Football,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30498&extension=ts
 体育频道,#genre#
