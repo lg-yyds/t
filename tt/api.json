@@ -1,20 +1,18 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "sites": [
         {
             "key": "js豆瓣",
             "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/豆瓣.js"
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/豆瓣.js"
         },
         {
             "key": "直播转点播",
             "name": "🐼️┃电视┃直播",
             "type": 3,
-            "api": "./直播转点播2.js",
-            "ext": "./json/直播仓.json"
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/直播转点播2.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/直播仓.json"
         },
         {
             "key": " 在线┃直播",
@@ -30,8 +28,8 @@
             "name": "😸┃肥猫┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "./json/云云.json",
-            "jar": "./jars/肥猫.jar"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/云云.json",
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/肥猫.jar"
         },
         {
             "key": "爱迪",
@@ -40,7 +38,7 @@
             "api": "csp_AppYsV2",
             "playerType": "2",
             "ext": "https://api123.adys.app/xgapp.php/v3/",
-            "jar": "./jars/爱迪.jar"
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar"
         },
         {
             "key": "狐狸",
@@ -49,7 +47,7 @@
             "api": "csp_AppYsV2",
             "playerType": "2",
             "ext": "https://www.kuin.one/api.php/app/",
-            "jar": "./jars/爱迪.jar"
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar"
         },
         {
             "key": "鸭鸭",
@@ -60,7 +58,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
-            "jar": "./jars/爱迪.jar"
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar"
         },
         {
             "key": "酷云",
@@ -68,7 +66,7 @@
             "type": 3,
             "api": "csp_AppYsV2",
             "ext": "https://ys.realdou.cn/api.php/app/",
-            "jar": "./jars/爱迪.jar",
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar",
             "categories": [
                 "4K电影",
                 "4K电视剧"
@@ -161,7 +159,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/voflix.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/voflix.json"
         },
         {
             "key": "csp_AppMr",
@@ -190,7 +188,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "http://get.lfytyl.com/api.php/app/",
-            "jar": "./jars/爱迪.jar"
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar"
         },
         {
             "key": "csp_Lib",
@@ -269,7 +267,7 @@
             "filterable": 1,
             "ext": "http://cms.maoyingshi.cc/api.php/app/",
             "playUrl": "json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url=",
-            "jar": "./jars/爱迪.jar"
+            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar"
         },
         {
             "key": "csp_Auete",
@@ -284,8 +282,8 @@
             "key": "drpy_js_奇珍异兽",
             "name": "🐨┃爱奇┃官源",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/爱奇.js"
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/爱奇.js"
         },
         {
             "key": "Qtv",
@@ -304,7 +302,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/360影视.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/360影视.json"
         },
         {
             "key": "MGT",
@@ -454,7 +452,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/戏曲.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/戏曲.json"
         },
         {
             "key": "演唱会",
@@ -464,14 +462,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/ych.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/ych.json"
         },
         {
             "key": "js虎牙",
             "name": "🐅┃虎牙┃直播",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/虎牙直播.js",
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/虎牙直播.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -484,7 +482,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/斗鱼.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/斗鱼.json"
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -494,7 +492,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/企鹅直播.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/企鹅直播.json"
         },
         {
             "key": "dr_88看球",
@@ -504,14 +502,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/88看球.js"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/88看球.js"
         },
         {
             "key": "drpy_js_JRKAN直播",
             "name": "🏀┃JRS┃看球",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/JRKAN直播.js"
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/JRKAN直播.js"
         },
         {
             "key": "csp_XYQBiu_聚合短视频",
@@ -521,21 +519,21 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./json/短视频.json"
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/短视频.json"
         },
         {
             "key": "drpy_js_有声小说吧",
             "name": "📻┃有声┃小说",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/有声小说吧.js"
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/有声小说吧.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "📻┃蜻蜓┃收音",
             "type": 3,
-            "api": "./drpy2.min.js",
-            "ext": "./js/蜻蜓FM.js"
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/蜻蜓FM.js"
         },
         {
             "key": "csp_Nbys",
@@ -626,9 +624,9 @@
         },
         {
             "key": "ext_live_protocol",
-            "name": "关注公众号“肥猫不肥”",
+            "name": "”",
             "type": 3,
-            "api": "./协议.js",
+            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/协议.js",
             "ext": "clan://proxy?sourcekey=ext_live_protocol"
         }
     ],
@@ -636,13 +634,13 @@
         {
             "name": "live",
             "type": 0,
-            "url": "aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3R2YnMudHh0",
+            "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xnLXl5ZHMvdC9tYWluL3QudHh0",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "redirect",
             "type": 0,
-            "url": "./redirect.txt",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/t.txt",
             "epg": ""
         }
     ],
@@ -977,6 +975,6 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ],
     "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-    "warningText": "接口完全免费，切勿付费购买。",
-    "spider": "./spider.jar"
+    "warningText": "",
+    "spider": "https://raw.githubusercontent.com/lg-yyds/t/main/tt/spider.jar"
 }
