@@ -94,15 +94,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kunyu77",
-            "name": "🌈┃七七┃影视",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_BuLei",
             "name": "🍩┃布雷┃影视",
             "type": 3,
@@ -111,16 +102,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://fabu.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "🐰┃图图┃影视",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "csp_DiDuan",
@@ -152,16 +133,6 @@
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt$$$https://wogg.xyz/"
         },
         {
-            "key": "csp_biubiu_voflix",
-            "name": "🌀┃Vof┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/voflix.json"
-        },
-        {
             "key": "csp_AppMr",
             "name": "👻┃明明┃影视",
             "type": 3,
@@ -169,26 +140,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "Kuaikan",
-            "name": "👀┃快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "飞速",
-            "name": "🚄┃飞速┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://get.lfytyl.com/api.php/app/",
-            "jar": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/jars/爱迪.jar"
         },
         {
             "key": "csp_Lib",
@@ -279,13 +230,6 @@
             "filterable": 1
         },
         {
-            "key": "drpy_js_奇珍异兽",
-            "name": "🐨┃爱奇┃官源",
-            "type": 3,
-            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/爱奇.js"
-        },
-        {
             "key": "Qtv",
             "name": "🐧┃企鹅┃官源",
             "type": 3,
@@ -312,17 +256,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "🎥┃影视┃工厂",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "m3u8ads": "hd.youyhn.com",
-            "ext": "https://www.ysgc.fun"
         },
         {
             "key": "Dm84",
@@ -536,15 +469,6 @@
             "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/蜻蜓FM.js"
         },
         {
-            "key": "csp_Nbys",
-            "name": "✈┃泥巴┃墙外",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_trj",
             "name": "✈┃唐人┃墙外",
             "type": 3,
@@ -570,64 +494,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "儿童",
-            "name": "📚┃少儿┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61578/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=3BlFTWj-rXJPPgJB6eQ1_C0odRnDCaW28cr8afXaO_I%3D%3A0"
-        },
-        {
-            "key": "小学",
-            "name": "📚┃小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61579/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json?sign=Oqbf9547dxbhVTf07kdHsuNZgzIWH2UT9uY7zRbTA5M%3D%3A0"
-        },
-        {
-            "key": "初中",
-            "name": "📚┃初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61581/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=7Jxqd0BzuIm-2OvXZyoRasDb1P3OojENYkxLf6bhLr0%3D%3A0"
-        },
-        {
-            "key": "高中",
-            "name": "📚┃高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/61580/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc%3D%3A0"
-        },
-        {
-            "key": "push_agent",
-            "name": "▶┃推送┃磁力",
-            "type": 3,
-            "api": "csp_Push",
-            "playerType": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
-        },
-        {
-            "key": "ext_live_protocol",
-            "name": "”",
-            "type": 3,
-            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/协议.js",
-            "ext": "clan://proxy?sourcekey=ext_live_protocol"
         }
     ],
     "lives": [
