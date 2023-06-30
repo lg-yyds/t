@@ -11,7 +11,6 @@ Sky Sports Arena,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=
 Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 Bein Sports (USA),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
 Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
-Sky Sports (United Kingdom),https://dai.google.com/linear/hls/pa/event/YoBM0ae5Q62TPdrfFHS4RQ/stream/ca4cf4a2-1e16-4ceb-8951-8bfa1dccdd4d:BRU/variant/2bec17ce4b43ba5adacd2588b48725d4/bandwidth/3072000.m3u8
 British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Marca TV (Spain),https://streamer70.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=ET&h=QF32r2opuhy_kfa-hUIdIQ&e=31363837383338303631&r=5665
 Fight TV (USA),https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
