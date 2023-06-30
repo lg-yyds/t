@@ -4,15 +4,15 @@
             "key": "js豆瓣",
             "name": "🐼┃豆瓣┃影视",
             "type": 3,
-            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/豆瓣.js"
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/tt/js/豆瓣.js"
         },
         {
             "key": "直播转点播",
             "name": "🐼️┃电视┃直播",
             "type": 3,
-            "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/直播转点播2.js",
-            "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/json/直播仓.json"
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/main/tt/直播转点播2.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/tt/json/直播仓.json"
         },
         {
             "key": " 在线┃直播",
