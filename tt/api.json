@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "js豆瓣",
-            "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
+            "name": "🐼┃豆瓣┃影视",
             "type": 3,
             "api": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/drpy2.min.js",
             "ext": "https://ghproxy.com/raw.githubusercontent.com/lg-yyds/t/main/tt/js/豆瓣.js"
