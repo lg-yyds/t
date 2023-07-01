@@ -1,2 +1,3 @@
 新增频道,#genre#
 GOLF CHANNEL,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
+jj,https://ddh1.cdnhks.lol/ddh1/premium70/playlist.m3u8
