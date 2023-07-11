@@ -7,6 +7,7 @@ Sky Sports Football,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stre
 Sky Sports Mix,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30495&extension=ts
 Sky Sports Arena,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30500&extension=ts
 Sky Sports Golf,http://2hubs.ddns.net:25461/BabNour/telegrramm/60009
+
 体育频道,#genre#
 Al Dawri & Al-Kass Satellite Sports (Qatar),https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 Bein Sports (USA),https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
