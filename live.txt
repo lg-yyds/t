@@ -1,2 +1,5 @@
-新增频道,#genre#
-GOLF CHANNEL,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
+体育频道,#genre#
+CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-5+ 体育赛事,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
