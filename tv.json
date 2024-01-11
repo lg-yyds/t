@@ -432,25 +432,6 @@
         "ratio": 1.597
       },
       "ext": "http://alist.xn--z7x900a.live/高中课堂.json"
-    },
-    {
-      "key": "应用商店",
-      "name": "🏡┃应用┃商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json",
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;96A533B0939C0D6FAA329ABB167625FC"
-    },
-    {
-      "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "playerType": "1",
-      "searchable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
   ],
   "parses": [
