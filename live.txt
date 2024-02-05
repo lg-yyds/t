@@ -10,7 +10,7 @@ CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888888
 CCTV-5+ 体育赛事,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
-GOLF CHANNEL,http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/51103.ts
+GOLF CHANNEL,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 体育频道,#genre#
 Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
 British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
