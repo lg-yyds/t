@@ -15,10 +15,7 @@ GOLF CHANNEL,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 体育频道,#genre#
 Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
 British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-Marca TV (Spain),https://streamer70.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=ET&h=QF32r2opuhy_kfa-hUIdIQ&e=31363837383338303631&r=5665
 30A TV FISHING,https://30a-tv.com/feeds/720p/40.m3u8
-BEK Sports,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
-Adventure Sports,https://6ad949639dde42cebd51578c75055228.mediatailor.us-east-1.amazonaws.com/v1/manifest/6f03f3123e02dbd4771f6f84da21714eef9b7542/AdventureSportsLive/688fa7e7-8093-46a3-9742-0799f9344444/1.m3u8
 Beach TV Gulf,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/chunklist_w1859901854.m3u8
 RIGHT NOW,https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/540/rightnowtvSCTE35.m3u8
 SPORTS GRID,https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
@@ -26,7 +23,7 @@ SPORTS GRID,https://sportsgrid-tribal.amagi.tv/playlist720p.m3u8
 Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 CBS (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 法·24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
