@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;c774c41f98e151b33aa70e525b38164a",
+  "spider": "https://raw.liucn.cc/box/fty.jar;md5;c774c41f98e151b33aa70e525b38164a",
   "wallpaper": "",
   "sites": [
     {
@@ -21,7 +21,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": "https://raw.liucn.cc/:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "YGP",
