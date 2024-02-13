@@ -2988,7 +2988,7 @@
     {
       "name": "肥猫",
       "type": 0,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xnLXl5ZHMvdC9tYWluL2d5LnR4dA==",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
