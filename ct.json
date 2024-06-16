@@ -3,6 +3,8 @@
 "sites":[
 {"key":"csp_douban","name":"🌕┃豆瓣┃热播","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"js_豆瓣","name":"🐼┃豆瓣┃推荐","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://raw.liucn.cc/box/libs/js/豆瓣推荐.js"},
+{"key":"csp_Nbys","name":"🛫┃泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_trj","name":"🛫┃唐人街┃飞","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_KungFu404","name":"🔥设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"jar":"https://raw.liucn.cc/box/libs/jar/Token.jar","ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"直播转点播","name":"📺︎┃电视┃点播","playerType":1,"type":3,"api":"https://raw.liucn.cc/box/libs/tv/zb.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.liucn.cc/box/libs/tv/zb.json"},
 {"key":"csp_lkvod","name":"💢┃来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext":"https://raw.liucn.cc/box/libs/hccx/lkvod.json"},
@@ -16,7 +18,7 @@
 {"key":"csp_Nmys","name":"🌾┃农民┃直连","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.liucn.cc/box/libs/nmys.json"},
 {"key":"厂长","name":"📔┃厂长┃无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
 {"key":"DiDuan","name":"⏮️┃低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"zxzj","name":"🍊┃在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
+{"key":"zxzj","name":"🍊┃在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"}，
 {"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"热播","name":"📺┃热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"👀┃萌米┃App","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
@@ -47,8 +49,6 @@
 {"key":"PanSearch","name":"🏵️‍┃阿里┃PanSe","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"七夜","name":"🔎┃阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Zhaozy","name":"🔍┃阿里┃Zhaozy","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"},
-{"key":"csp_Nbys","name":"🛫┃泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_trj","name":"🛫┃唐人街┃飞","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"js_Lib","name":"🍲┃Lib┃影视","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/libs/js/libvio.js"},
 {"key":"js_czsapp","name":"🏭️┃厂长┃Js","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/libs/js/czspp.js"},
 {"key":"js_大师兄","name":"🐵┃师兄┃影视","type":3,"api":"https://raw.liucn.cc/box/libs/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/libs/js/大师兄影视.js"},
