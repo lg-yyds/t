@@ -46,7 +46,6 @@
         "欧美综艺"
       ]
     },  
-{"key":"csp_trj","name":"🛫┃唐人街┃飞","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_KungFu404","name":"🔥设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"jar":"https://raw.liucn.cc/box/libs/jar/Token.jar","ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
 {"key":"直播转点播","name":"📺︎┃电视┃点播","playerType":1,"type":3,"api":"https://raw.liucn.cc/box/libs/tv/zb.min.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.liucn.cc/box/libs/tv/zb.json"},
 {"key":"csp_XYQHiker_VSYY","name":"🎦┃VS┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/libs/jar/XYQH.jar","ext":"https://raw.liucn.cc/box/libs/xyq/VS影院.json"},
@@ -162,8 +161,7 @@
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 "lives":[
-{"name":"肥猫","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"SAO0","type":0,"url":"https://raw.liucn.cc/box/libs/tv/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"SAO0","type":0,"url":"aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2xnLXl5ZHMvdC9tYWluL2xpdmUudHh0","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://raw.liucn.cc/box/lib/tv/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
