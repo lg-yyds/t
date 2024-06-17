@@ -6,7 +6,7 @@
 {"key":"csp_Nbys","name":"🛫┃泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
 {
       "key": "haiwaikan",
-      "name": "🛫海外看🚀",
+      "name": "🛫┃海外看┃飞",
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
