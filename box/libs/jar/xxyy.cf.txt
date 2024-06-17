@@ -1,0 +1,58 @@
+;;
+;; Domain:     xxyy.cf.
+;; Exported:   2023-12-27 03:53:45
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+xxyy.cf	3600	IN	SOA	nicole.ns.cloudflare.com. dns.cloudflare.com. 2045531582 10000 2400 604800 3600
+
+;; NS Records
+xxyy.cf.	86400	IN	NS	nicole.ns.cloudflare.com.
+xxyy.cf.	86400	IN	NS	rudy.ns.cloudflare.com.
+
+;; A Records
+xxyy.cf.	1	IN	A	130.162.157.212
+
+;; CNAME Records
+bt2.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+bt3.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+bt.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+home.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+io.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+lx.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+nas2.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+nas.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+pro.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+ql2.xxyy.cf.	1	IN	CNAME	xxyy.cf.
+qlsms.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+qlsm.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+ql.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+qr.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+rou.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+sms.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+tr.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+un2.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+un.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+wp.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+xui.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
+*.xxyy.cf.	1	IN	CNAME	euuuu.eu.org.
