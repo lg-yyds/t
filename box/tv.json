@@ -64,9 +64,7 @@
 {"name":"秋雨","server":"https://share.qiuyu.org/"},
 {"name":"小雅","server":"http://alist.xiaoya.pro/"},
 {"name":"七米蓝","server":"https://al.chirmyram.com/"},
-{"name":"蓼茶","server":"http://175.178.16.226:62494/"},
-{"name":"柯南","server":"https://alist.523.monster/"},
-{"name":"老谭","server":"https://pan.cqtjy.cn/ali"}]}}
+{"name":"蓼茶","server":"http://175.178.16.226:62494/"}]}}
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
