@@ -973,7 +973,6 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
-    "logo": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/LiuHua.gif",
     "rules": [
         {
             "name": "proxy",
