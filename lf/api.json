@@ -476,16 +476,6 @@
             "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/json/土豆.json"
         },
         {
-            "key": "csp_Gitcafe",
-            "name": "📜小纸条",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf//txt/token.txt"
-        },
-        {
             "key": "csp_XYQHikerAL__影搜",
             "name": "😈影搜",
             "type": 3,
@@ -696,7 +686,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/虎牙直播.js"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/虎牙直播.js"
         },
         {
             "key": "斗鱼直播",
@@ -706,7 +696,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/斗鱼直播.js"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/斗鱼直播.js"
         },
         {
             "key": "有声小说吧",
@@ -717,7 +707,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/有声小说吧.js"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/有声小说吧.js"
         },
         {
             "key": "JRKAN直播",
@@ -727,7 +717,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/JRKAN直播.js"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/JRKAN直播.js"
         },
         {
             "key": "88看球",
@@ -737,7 +727,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/88看球.js"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/88看球.js"
         },
         {
             "key": "短视频",
