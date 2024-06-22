@@ -586,6 +586,17 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/json/高中课堂.json"
+        },
+        {
+            "key": "csp_KungFu404",
+            "name": "🔥设置Token",
+            "type": 3,
+            "api": "csp_KungFu404",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "https://raw.githubusercontent.com/lg-yyds/t/main/box/libs/jar/Token.jar",
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         }
     ],
     "parses": [
