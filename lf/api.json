@@ -12,7 +12,7 @@
         },
         {
             "key": "haiwaikan",
-            "name": "👌🏻海外看┃直连",
+            "name": "👌🏻海外看(墙外)",
             "type": 1,
             "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
