@@ -467,7 +467,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/box/libs/js/alist1.json"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/json/alist1.json"
         },
         {
             "key": "WebDAV",
@@ -476,7 +476,7 @@
             "api": "csp_WebDAV",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/box/libs/js/webdav.json"
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/json/webdav.json"
         },
         {
             "key": "csp_AList",
@@ -595,8 +595,8 @@
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
-            "jar": "https://raw.githubusercontent.com/lg-yyds/t/main/box/libs/jar/Token.jar",
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
+            "jar": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/Token.jar",
+            "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
         }
     ],
     "parses": [
