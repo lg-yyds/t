@@ -54,6 +54,49 @@
             ]
         },
         {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": {
+                "json": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/json/youtube.json",
+                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": "",
+                "proxy": "proxy"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "直播转点播",
+            "name": "🐼️┃电视┃直播",
+            "type": 3,
+            "searchable": 0,
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/live2vod.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/json/feimaolive.json"
+        },
+        {
+            "key": "drpy_js_人人影视",
+            "name": "人人影视[js]|搜",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/js/yyets.js",
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
             "key": "骚火",
             "name": "💢骚火",
             "type": 3,
