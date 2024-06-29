@@ -1,6 +1,21 @@
 {
     "spider": "https://raw.githubusercontent.com/lg-yyds/t/main/lf/spider.jar",
     "sites": [
+         {
+            "key": "农民",
+            "name": "🥝农民",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "<li>&&</li>",
+                "图片": "src=\"&&\"",
+                "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
+                "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
         {
             "key": "csp_Nbys",
             "name": "👑泥巴(墙外)",
@@ -81,21 +96,6 @@
                 "跳转播放链接": "<iframe*src=\"&&\"",
                 "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
                 "三次跳转播放链接": "\"url\"*\"&&\""
-            }
-        },
-        {
-            "key": "农民",
-            "name": "🥝农民",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "数组": "<li>&&</li>",
-                "图片": "src=\"&&\"",
-                "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
-                "分类": "短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
             }
         },
         {
