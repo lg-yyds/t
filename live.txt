@@ -26,6 +26,7 @@ Fox News Live (USA),https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 MSNBC (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 CBS (USA),https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 法·24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 法·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
