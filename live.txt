@@ -7,10 +7,6 @@ CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-5 体育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD_360/hls.m3u8
-CCTV-5+ 体育赛事,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-CCTV-5+ 体育赛事,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/CCTV-5plusH265_4000.m3u8
-CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-5+ 体育赛事,https://pull-f5-spe.ixigua.com/live/YesLiveTV-7d098b36-c7e5-4941-8eb0-6af0f5ad3f8d.flv
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 GOLF CHANNEL,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
