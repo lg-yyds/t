@@ -1,9 +1,9 @@
 新增频道,#genre#
+CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024%E5%A5%A5%E8%BF%90
+CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/1.m3u8?gMac=unknown&livodToken=3372ee&2024%E5%A5%A5%E8%BF%90
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 CCTV-5 体育,https://node1.olelive.com/live/CCTV5HD/hls.m3u8
 CCTV-5 体育,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
-CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV-5 体育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD_360/hls.m3u8
