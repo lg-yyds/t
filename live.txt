@@ -1,9 +1,12 @@
 新增频道,#genre#
+CCTV-1 综合,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=7e2011e257412456b9a1ec63bfb3293a
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=7e2010e257412156b9a1ed63bfb3283a
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=7e2012e257412156b9a1ed63bfb3283a
+CCTV-6 电影,https://node3.olelive.com:6443/live/CCTV6HD.live.flv?token=7e2011e257412656b9a1ee63bfb32a3a
+CCTV-8 电视剧,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=7e2010e257412456b9a1ec63bfb32e3a
+CCTV-9 记录,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=7e2010e257412656b9a1ec63bfb32f3a
 CCTV-13 新闻,https://node1.olelive.com:6443/live/CCTV13HD.live.flv?token=7e2010e257412556b9a1e963bfb32f3a
-
 CCTV-16 奥林匹克,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=7e2010e257412156b9a1ef63bfb32e3a
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
