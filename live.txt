@@ -1,7 +1,7 @@
 新增频道,#genre#
-CCTV-5 体育,http://61.138.54.155:2233/hls/12/index.m3u8
+CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=7e2010e257412156b9a1ed63bfb3283a
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
-CCTV-5+ 体育赛事,http://123.144.187.88:8004/udp/225.0.4.73:7980
+CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=7e2012e257412156b9a1ed63bfb3283a
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 GOLF CHANNEL,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
