@@ -1,6 +1,5 @@
 新增频道,#genre#
 CCTV-5 体育,http://61.138.54.155:2233/hls/12/index.m3u8
-CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/1.m3u8?gMac=unknown&livodToken=3372ee&2024%E5%A5%A5%E8%BF%90
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 CCTV-5+ 体育赛事,http://123.144.187.88:8004/udp/225.0.4.73:7980
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
