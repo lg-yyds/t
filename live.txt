@@ -11,13 +11,12 @@ CCTV-13 新闻,https://node1.olelive.com:6443/live/CCTV13HD.live.flv?token=7e201
 CCTV-16 奥林匹克,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=7e2010e257412156b9a1ef63bfb32e3a
 Sky sports Golf,https://bstvcdn.ballbar.net/tiankonggolf/playlist-15.m3u8a?t=1722784138&token=c6fead4529757764061a30b65a44ab2c
 Astro Golf,https://bstvcdn.ballbar.net/Agolf/playlist-15.m3u8a?t=1722784849&token=4556c2d4a922ee94de88e8e139babc48
-Golf Channel,https://bstvcdn.ballbar.net/Agolf/playlist-15.m3u8a?t=1722784951&token=1789c292a1d98c4ca361a481a7023677
+Astro Golf,https://bstvcdn.ballbar.net/Agolf/playlist-15.m3u8a?t=1722784951&token=1789c292a1d98c4ca361a481a7023677
 爱尔达体育1台,https://bstvcdn.ballbar.net/eltasport1_twn/playlist-12.m3u8a?t=1722784534&token=4c60b74c54ed954e04f5da2d45d9d8a8
 Sky sports Football,https://bstvcdn.ballbar.net/tiankongfootball/playlist-15.m3u8a?t=1722784600&token=8121da1522321b377b70fcdbc3e67cfd
 
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
-GOLF CHANNEL,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 体育频道,#genre#
 Sport 1 (Germany),https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.m3u8
 British Eurosport (UK),http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
