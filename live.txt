@@ -1,19 +1,12 @@
 新增频道,#genre#
 CCTV-1 综合,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=7e2011e257412456b9a1ec63bfb3293a
-CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=7e2010e257412156b9a1ed63bfb3283a
+CCTV-5 体育,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=7e202ce257410256b9a1d363bfb3023a
 CCTV-5 体育,https://ushls.ballbar.net/cctv5/playlist-67.m3u8a?t=1722784123&token=27e8bdc3e31b70c31b664cefbd4e08e1
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
-CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=7e2012e257412156b9a1ed63bfb3283a
-CCTV-6 电影,https://node3.olelive.com:6443/live/CCTV6HD.live.flv?token=7e2011e257412656b9a1ee63bfb32a3a
-CCTV-8 电视剧,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=7e2010e257412456b9a1ec63bfb32e3a
-CCTV-9 记录,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=7e2010e257412656b9a1ec63bfb32f3a
-CCTV-13 新闻,https://node1.olelive.com:6443/live/CCTV13HD.live.flv?token=7e2010e257412556b9a1e963bfb32f3a
-CCTV-16 奥林匹克,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=7e2010e257412156b9a1ef63bfb32e3a
-Sky sports Golf,https://bstvcdn.ballbar.net/tiankonggolf/playlist-15.m3u8a?t=1722784138&token=c6fead4529757764061a30b65a44ab2c
-Astro Golf,https://bstvcdn.ballbar.net/Agolf/playlist-15.m3u8a?t=1722784849&token=4556c2d4a922ee94de88e8e139babc48
-Astro Golf,https://bstvcdn.ballbar.net/Agolf/playlist-15.m3u8a?t=1722784951&token=1789c292a1d98c4ca361a481a7023677
-爱尔达体育1台,https://bstvcdn.ballbar.net/eltasport1_twn/playlist-12.m3u8a?t=1722784534&token=4c60b74c54ed954e04f5da2d45d9d8a8
-Sky sports Football,https://bstvcdn.ballbar.net/tiankongfootball/playlist-15.m3u8a?t=1722784600&token=8121da1522321b377b70fcdbc3e67cfd
+CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=7e2029e257410056b9a1d263bfb3093a
+CCTV-16 奥林匹克,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=7e2028e257410356b9a1d263bfb3093a
+Sky sports Golf,https://bstvcdn.ballbar.net/tiankonggolf/playlist-15.m3u8a?t=1722829105&token=64784cfc6819c3c6412fb52053417549
+Sky sports Football,https://bstvcdn.ballbar.net/tiankongfootball/playlist-15.m3u8a?t=1722829139&token=87ed0ddb7a1fdb417dc4874d4a1e072b
 
 ALL SPORTS,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 BEACH TV,https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
