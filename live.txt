@@ -1,5 +1,4 @@
 新增频道,#genre#
-CCTV-1 综合,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=7e2011e257412456b9a1ec63bfb3293a
 CCTV-5 体育,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=7e202ce257410256b9a1d363bfb3023a
 CCTV-5 体育,https://ushls.ballbar.net/cctv5/playlist-67.m3u8a?t=1722784123&token=27e8bdc3e31b70c31b664cefbd4e08e1
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
