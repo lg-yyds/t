@@ -1,9 +1,9 @@
 新增频道,#genre#
-CCTV-5 体育,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=7e202ce257410256b9a1d363bfb3023a
+CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=7e2001e257411656b9a1e263bfb37b3a
 CCTV-5 体育,https://ushls.ballbar.net/cctv5/playlist-67.m3u8a?t=1722784123&token=27e8bdc3e31b70c31b664cefbd4e08e1
 CCTV-5 体育,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
-CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=7e2029e257410056b9a1d263bfb3093a
-CCTV-16 奥林匹克,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=7e2028e257410356b9a1d263bfb3093a
+CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=7e2000e257411456b9a1e263bfb37d3a
+CCTV-16 奥林匹克,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=7e2000e257411656b9a1e063bfb37c3a
 Sky sports Golf,https://bstvcdn.ballbar.net/tiankonggolf/playlist-15.m3u8a?t=1722829105&token=64784cfc6819c3c6412fb52053417549
 Sky sports Football,https://bstvcdn.ballbar.net/tiankongfootball/playlist-15.m3u8a?t=1722829139&token=87ed0ddb7a1fdb417dc4874d4a1e072b
 
