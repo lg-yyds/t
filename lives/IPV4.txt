@@ -2309,8 +2309,3 @@ CCTV-15,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888
 经典电影,http://221.222.162.206:8888/udp/239.3.1.195:9024,0.83
 经典电影,http://1.203.111.193:17777/udp/225.1.8.203:9024,0.57
 淘BABY,http://1.203.111.193:17777/udp/225.1.8.36:8002,0.57
-
-未分组,#genre#
-
-12-17 21:42,#genre#:
-12-17 21:42,https://raw.gitmirror.com/MemoryCollection/IPTV/main/TB/mv.mp4
