@@ -555,7 +555,7 @@
         {
             "name": "IPV4",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/lg-yyds/iptv-api/refs/heads/master/output/user_result.txt",
+            "url": "https://raw.githubusercontent.com/lg-yyds/gdtvapi/refs/heads/master/output/user_result.txt",
             "epg": ""
         },
         {
