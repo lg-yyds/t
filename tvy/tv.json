@@ -555,7 +555,7 @@
         {
             "name": "IPV4",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/lg-yyds/iptvapi/refs/heads/master/output/result.txt",
+            "url": "https://raw.githubusercontent.com/lg-yyds/gytvapi/refs/heads/master/output/result.txt",
             "epg": ""
         },
         {
