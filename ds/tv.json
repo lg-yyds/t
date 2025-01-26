@@ -555,7 +555,7 @@
         {
             "name": "IPV4",
             "type": 0,
-            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/ds/lives/iptv4.txt",
+            "url": "http://8.137.57.186:8009/txt",
             "epg": ""
         },
         {
