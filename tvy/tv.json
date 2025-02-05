@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/fty.jar",
+    "spider": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/fty.jar",
     "wallpaper": "",
     "sites": [
         {"jar":"https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/J/gm.jar","key":"csp_GM_爱壹帆","name":"🐵爱壹帆(SCRIPT)","type":3,"searchable":1,"changeable":1,"quickSearch":0,"style":{"type":"rect","ratio":0.75},"api":"csp_GM","ext":{"userScript":"./EXT/userScripts/ysfp.user.js","debug":false,"webViewSettings":{"blockNetworkImage":true,"blockList":["*.png*","*.mp3*","*.css*","https://*.googletagmanager.com/*","https://*.google-analytics.com/*"]},"spider":{"homeContent":{"loadUrl":"https://m.yfsp.tv/"},"categoryContent":{"loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"},"detailContent":{"loadUrl":"https://m.yfsp.tv/play/${id}"},"playerContent":{"loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"},"searchContent":{"loadUrl":"https://m.yfsp.tv/search"}}}},
@@ -240,8 +240,8 @@
             "key": "Jrsjs",
             "name": "⚽ Jrs┃球迷",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/api/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/js/jrk.js",
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/api/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/js/jrk.js",
             "style": {
                 "type": "list"
             },
@@ -253,8 +253,8 @@
             "key": "酷奇",
             "name": "🎤酷奇┃MV",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/api/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/js/酷奇MV.js",
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/api/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/js/酷奇MV.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -276,15 +276,15 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/json/MTV.json"
+                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/json/MTV.json"
             }
         },
         {
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/api/drpy2.js",
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/js/huya2.js",
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/api/drpy2.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/js/huya2.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -298,8 +298,8 @@
             "key": "斗鱼js",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/api/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/js/斗鱼直播.js",
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/api/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/js/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -313,8 +313,8 @@
             "key": "有声小说js",
             "name": "🎧有声┃小说",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/api/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/js/有声小说吧.js",
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/api/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/js/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -476,8 +476,8 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/api/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/js/兔小贝.js",
+            "api": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/api/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/js/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -499,7 +499,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/json/少儿教育.json"
+                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/json/少儿教育.json"
             }
         },
         {
@@ -515,7 +515,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/json/小学课堂.json"
+                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/json/小学课堂.json"
             }
         },
         {
@@ -531,7 +531,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/json/初中课堂.json"
+                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/json/初中课堂.json"
             }
         },
         {
@@ -547,7 +547,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/json/高中课堂.json"
+                "json": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/json/高中课堂.json"
             }
         }
     ],
@@ -556,19 +556,19 @@
         {
             "name": "IPV4",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/lg-yyds/gdtvapi/refs/heads/master/output/user_result.txt",
+            "url": "https://raw.githubusercontent.com/lg-yyds/gytvapi/refs/heads/master/output/user_result.txt",
             "epg": ""
         },
         {
             "name": "IPV6①",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/lives/IPV6①.txt",
+            "url": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/lives/IPV6①.txt",
             "epg": ""
         },
         {
             "name": "平台直播",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/lives/平台直播.txt",
+            "url": "https://raw.githubusercontent.com/lg-yyds/t/refs/heads/main/tvy/lives/平台直播.txt",
             "epg": ""
         }
     ]
